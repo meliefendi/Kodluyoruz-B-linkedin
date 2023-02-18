@@ -5,23 +5,14 @@ Açıklama resim ve videoların altında. ayrıca yüklenen fotoğraflardaki ilk
 ![](img/orjss2.png)
 
 ***
-***
-***
-***
 
 ![](img/mnss1png.png)
 ![](img/msss2.png)
 
 ***
-***
-***
-***
 
 ![](img/tan%C4%B1t%C4%B1mv%C5%9Fdeo.mp4)
 
-***
-***
-***
 ***
 
 # Açıklama
