@@ -29,8 +29,8 @@ Açıklama resim ve videoların altında. ayrıca yüklenen fotoğraflardaki ilk
 ***
 Artıları
 ***
-1.Yüksek oranda benzerlik.
-2.Gece modu.
+1.Yüksek oranda benzerlik. <br/>
+2.Gece modu.<br/>
 3.Sıfırdan oluşum.
 
 ***
