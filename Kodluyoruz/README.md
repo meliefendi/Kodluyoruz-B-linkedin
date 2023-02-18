@@ -27,7 +27,7 @@ Artıları
 ***
 Eksileri
 ***
-1.Arama butonundaki amblem rengi.
+1.Arama butonundaki amblem rengi. <br/>
 2.Sol paneldeki hover olayları
 
 ***
