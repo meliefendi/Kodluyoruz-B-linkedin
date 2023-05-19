@@ -1,4 +1,4 @@
-Açıklama resim ve videoların altında. ayrıca yüklenen fotoğraflardaki ilk gösterilen orjinal linkedin ben çok karıştırdım siz karıştırmayın .p ayrıca videoda da aynı şekilde ilk tanıtım orjinal ikincisi benim yapmış olduğum umarım faydası dokunur. Projenin görüntüsü bu şekilde;
+Açıklama resim ve videoların altında. ayrıca yüklenen fotoğraflardaki ilk gösterilen orjinal linkedin ben çok karıştırdım siz karıştırmayın. ayrıca videoda da aynı şekilde ilk tanıtım orjinal ikincisi benim yapmış olduğum umarım faydası dokunur. Projenin görüntüsü bu şekilde;
 -
 
 ![](img/orjss1.png)
